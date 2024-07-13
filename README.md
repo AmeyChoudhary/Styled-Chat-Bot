@@ -156,8 +156,6 @@ would break the model since we are just trying to fine-tune it)
 - Played around with a few optimizers and finally decided on sticking with AdamW
 since it was giving the best performance for this task as well as since other
 articles on the web also recommended it to fine-tune a generative model.
-- Integrated W&B for better understanding of the model and the hyper parameters.
-([https://wandb.ai/mhardik003/iNLP_Project](https://wandb.ai/mhardik003/iNLP_Project))
 - As recommended by articles on the net froze the first six layers of the model making only the other six opened to training.
 
 ---

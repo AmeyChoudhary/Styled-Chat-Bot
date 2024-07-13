@@ -1,5 +1,4 @@
-# iNLP Project Report
-
+# Styled Chat Bot
 Transformer (GPT-2) fine tuned on the chat_data.json dataset
 
 <br>

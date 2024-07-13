@@ -16,14 +16,6 @@ To train the model from scratch, run the following command :
 python3 main.py
 ```
 
-<br>
-
----
-
-### Link to the model : https://iiitaphyd-my.sharepoint.com/:u:/g/personal/jainit_bafna_research_iiit_ac_in/ERDe5zst57hDu97-ybEYLDUBSXKEt7_9U0Gcqr4GcXczLA?e=bXs17g
-
-
-<br>
 
 ---
 
